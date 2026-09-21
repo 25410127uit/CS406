@@ -1,0 +1,13 @@
+# Version ghim theo đúng môi trường đã dùng để tạo kết quả trong báo cáo
+# (Google Colab, GPU T4, xem Mục 0 của DurianLeafCS406.ipynb).
+# Nếu cần cài trên máy khác, có thể nới lỏng version bằng cách đổi "==" thành ">="
+# nhưng kết quả số liệu có thể lệch nhẹ so với báo cáo do khác version thư viện.
+tensorflow==2.20.0
+numpy
+matplotlib
+scikit-learn
+pillow
+pandas
+imagehash
+streamlit>=1.30
+opencv-python-headless>=4.8
