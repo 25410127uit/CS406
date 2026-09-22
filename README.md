@@ -145,4 +145,4 @@ Nguyen, T. (2025). Image Dataset of Ten Durian Diseases Captured in Real-Field C
 - Main CNN comparison: EfficientNetB0, ResNet50, MobileNetV2.
 - Preprocessing training experiment: Original, Gaussian Blur, Bilateral Filter, Sharpening with ResNet50.
 - Sobel/Canny and HSV Histogram are analysis/visualization only.
-- GLCM, SIFT/SURF and SVM are not part of the final pipeline.
+
